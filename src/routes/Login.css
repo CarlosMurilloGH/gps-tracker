@@ -1,0 +1,68 @@
+.Loginregistercontainer{
+    background-image: url('../assets/bkgapp.jpg');
+    background-size: cover;
+    background-position: center;        
+    width: 100vw;
+    height: 100vh;
+    padding-top: 200px;
+}
+
+.formcontainer{
+    width: 600px;
+    margin:auto;
+    padding: 3rem 0.5rem;
+    border-radius: 3px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.textform{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+button.buttongoogle {
+    background-color: #FFFF00;
+    border:1px solid #FFFF00;
+    border-radius: 3px;
+    color:black;
+    font-size: 1rem;
+    padding:1rem 4rem;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto; 
+    cursor: pointer;
+    width: 550px!important;
+    text-align: center;
+
+}
+button.buttonlogin{
+    background-color: #CECCD1;
+    border:1px solid #CECCD1;
+    border-radius: 3px;
+    color:black;
+    font-size: 1rem;
+    padding:1rem 6rem;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    text-align: center;
+    width: 550px!important;
+}
+
+input{
+    width: 500px;
+    padding:1rem 2rem;
+    border-radius: 3px;
+    margin-bottom: 0.5rem;
+    border:1px solid #7d7d7d;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}

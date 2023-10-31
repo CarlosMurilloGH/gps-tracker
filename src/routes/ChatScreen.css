@@ -1,0 +1,21 @@
+.chatscreencontainer{
+    background-image: url('../assets/bkgapp.jpg');
+    background-size: cover;
+    background-position: center;    
+    width: 100vw;
+    height: 100vh;
+    padding-top: 200px;
+}
+.widthbox{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.chatbox{
+    padding:1rem 2rem;
+    border: 1px solid black;
+
+}

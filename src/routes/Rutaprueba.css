@@ -1,0 +1,70 @@
+
+.googlemap{
+    width:600px;
+    height:500px;
+    overflow:hidden;
+}
+.container{
+    background-image: url('../assets/bkgapp.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+}
+
+.boxcontainer{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mapcontainer{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 700px;
+    padding-top: 50px;
+}
+
+.maptitle{
+    margin-bottom: 20px;
+}
+
+button.buttongoogle {
+    background-color: #FFFF00;
+    border:1px solid #FFFF00;
+    border-radius: 3px;
+    color:black;
+    font-size: 1rem;
+    padding:1rem 4rem;
+    /* display: flex;
+    margin-left: auto;
+    margin-right: auto;  */
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+
+}
+button.buttonlogin{
+    background-color: #CECCD1;
+    border:1px solid #CECCD1;
+    border-radius: 3px;
+    color:black;
+    font-size: 1rem;
+    padding:1rem 6rem;
+    /* display: flex;
+    margin-left: auto;
+    margin-right: auto; */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    text-align: center;
+    width: 100%;
+}
+
+.formcontainer{
+    width: 100%;
+}

@@ -1,0 +1,11 @@
+.productoNombreContainer{
+    display: flex;
+}
+
+.productoDescripcionContainer{
+    display: flex;
+}
+
+.productoPrecioContainer{
+    display: flex;
+}

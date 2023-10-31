@@ -1,0 +1,7 @@
+.msgcontainer{
+    margin-top:5px;
+    margin-bottom: 10px;
+    height: 400px;
+    overflow-y: auto;
+    text-align: left;
+}
